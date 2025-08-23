@@ -7,11 +7,13 @@ Here I showcase my professional learning journey in **Python, AI, Data Science, 
 
 ## 📜 Certificates
 
-### 1. Python for Data Science and AI  
+### Python for Data Science and AI
 - **Issued by:** IBM Developer Skills Network (Coursera)  
 - **Date:** August 2025  
 - **Credential:** Verified on Coursera  
-- 📄 [View Certificate (PDF)](Certificate.pdf)
+
+📄 [View Certificate (PDF)](Certificate.pdf)  
+🔗 [Verify Certificate Online](https://www.coursera.org/account/accomplishments/verify/1SML4QSWPPBW)
 
 ---
 
@@ -31,7 +33,7 @@ Here I showcase my professional learning journey in **Python, AI, Data Science, 
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
 - **Languages:** Python, SQL  
 - **Libraries/Tools:** Pandas, NumPy, scikit-learn, Jupyter Notebook, Matplotlib  
@@ -48,3 +50,4 @@ Here I showcase my professional learning journey in **Python, AI, Data Science, 
 ---
 
 ✨ *Thanks for visiting my certification repo! More certificates coming soon...*
+
